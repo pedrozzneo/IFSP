@@ -1,0 +1,1 @@
+a lógica consiste em uma vez achado a condição de parada, ela vai sendo copiada e eu adiciono algo novo de cada função, então o processo de copiar e colocar algo novo é semelhante ao soma += numero por exemplo

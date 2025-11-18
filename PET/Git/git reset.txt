@@ -1,0 +1,3 @@
+git reset
+
+-> git reset {reference} moves the pointer backwards to the reference, deleting everything on the way
